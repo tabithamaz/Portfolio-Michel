@@ -1,0 +1,14 @@
+.contener{
+    display:flex; 
+    float:right;
+}
+
+.navigation ul{
+    display:flex;
+    flex-direction: row;
+}
+
+.navigation ul li{
+    display: flex;
+    margin-right: 10px;
+}
